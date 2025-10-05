@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dqt2alvsfswun"]
+
+[ext_resource type="Texture2D" uid="uid://bs8y3t2nidboj" path="res://brackeys_platformer_assets/BattleBackground.png" id="1_pf40u"]
+
+[node name="BattleBackground" type="Sprite2D"]
+position = Vector2(2405, 221)
+scale = Vector2(3.81543, 1)
+texture = ExtResource("1_pf40u")

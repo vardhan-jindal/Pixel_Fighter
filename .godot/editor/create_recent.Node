@@ -1,0 +1,15 @@
+Sprite2D
+DirectionalLight2D
+TextureRect
+SplitContainer
+CollisionShape2D
+AnimatedSprite2D
+AnimatableBody2D
+Node2D
+Button
+Timer
+Label
+CanvasLayer
+CharacterBody2D
+Node
+RayCast2D

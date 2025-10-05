@@ -1,0 +1,15 @@
+res://player.tscn
+res://game.tscn
+res://scenes/coins.tscn
+res://scenes/coins.gd
+res://scripts/killzone.gd
+res://scenes/killzone.tscn
+res://scripts/enemy.gd
+res://scenes/enemy.tscn
+res://player.gd
+res://coin.gd
+res://scripts/game_manager.gd
+res://canvas_layer.gd
+res://brackeys_platformer_assets/LICENSE & CREDITS.txt
+res://brackeys_platformer_assets/sprites/main menu.tscn
+res://ui.gd
