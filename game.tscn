@@ -226,7 +226,7 @@ _data = {
 position = Vector2(-136, -49)
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(662.5, -132)
+position = Vector2(665, -108)
 scale = Vector2(1.6695311, 1)
 texture = ExtResource("1_iotsf")
 
@@ -400,10 +400,10 @@ autowrap_mode = 2
 script = ExtResource("10_hve3p")
 
 [node name="TimerLabel" type="Label" parent="ui"]
-offset_left = -521.0
-offset_top = -245.0
-offset_right = -304.0
-offset_bottom = -92.0
+offset_left = -519.0
+offset_top = -489.0
+offset_right = -302.0
+offset_bottom = -336.0
 text = "Time left:30"
 
 [node name="GameOverLabel" type="Label" parent="ui"]
